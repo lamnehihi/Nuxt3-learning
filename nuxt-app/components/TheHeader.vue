@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <TheHeader />
-  </div>
+  <h1>
+    I am header
+  </h1>
 </template>
 
 <script setup>
